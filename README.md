@@ -31,8 +31,8 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-End (Jú
 
 ### 🔗 Vamos nos conectar!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/felipesouzasilv])
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[felipehalk588@gmail.com])
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipesouzasilv)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipehalk588@gmail.com)
 
 <!--
 **F5eli8pe8/F5eli8pe8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
