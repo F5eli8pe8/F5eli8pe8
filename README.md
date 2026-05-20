@@ -1,7 +1,7 @@
 
 # Olá! 👋 Eu sou Valdenilson Felipe
 
-### 🚀 Sou programador Front-End 
+### 🚀 Sou programador Full-Stack 
 
 Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-End (Júnior/Estagiário)** para aplicar e expandir meus conhecimentos em soluções que unem **tecnologia, design e experiência do usuário**.
 
