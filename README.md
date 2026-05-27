@@ -23,7 +23,7 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-End (Jú
 | **Front-End Principal** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` |
 | **Estilização** | `Sass/SCSS` `Styled-Components` `Tailwind CSS` |
 | **Versionamento/Tools** | `Git` `GitHub` `VS Code` |
-| **Back-end/Básico** | `Python` `Django` (Para projetos CRUD) |
+| **Back-end/Básico** | `Java` `Spring-Boot` `Python` `Django` |
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,python,django,git,github" />
