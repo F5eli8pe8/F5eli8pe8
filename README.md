@@ -3,7 +3,7 @@
 
 ### 🚀 Sou programador Full-Stack 
 
-Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-End (Júnior/Estagiário)** para aplicar e expandir meus conhecimentos em soluções que unem **tecnologia, design e experiência do usuário**.
+Atualmente busco minha primeira oportunidade como **Desenvolvedor Full-Stack** para aplicar e expandir meus conhecimentos em soluções que unem **tecnologia, design e experiência do usuário**.
 
 ---
 
@@ -11,7 +11,7 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-End (Jú
 
 * Estudando ativamente **React** e **Next.js** em projetos individuais.
 * Foco em desenvolver **interfaces responsivas** e otimizadas.
-* Estudando Back-end (Python/Django) para ter uma **visão Full Stack** e melhor integração de APIs.
+* Estudando Back-end com uma **visão Full Stack** e melhor integração de APIs.
 * Estou realizando minha graduação em Análise e Desenvolvimento de Sistemas no Centro Universitario Internacional-UNINTER.
 
 ---
@@ -20,7 +20,7 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-End (Jú
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Front-End Principal** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` |
+| **Front-End** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Angular` |
 | **Estilização** | `Sass/SCSS` `Styled-Components` `Tailwind CSS` |
 | **Versionamento/Tools** | `Git` `GitHub` `VS Code` |
 | **Back-end/Básico** | `Java` `Spring-Boot` `Python` `Django` |
